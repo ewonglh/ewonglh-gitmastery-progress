@@ -104,5 +104,15 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787067144.484337,
+    "completed_at": 1787067147.485021,
+    "comments": [
+      "You are still ignoring many/file22.txt.",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
