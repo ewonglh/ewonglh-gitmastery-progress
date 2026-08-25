@@ -281,16 +281,6 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "conflict-mediator",
-    "started_at": 1787650453.45637,
-    "completed_at": 1787650456.20508,
-    "comments": [
-      "You should resolve the merge by setting the print to be 'Hello Everyone and World!'",
-      "Reset the repository using \"gitmastery progress reset\" and start again"
-    ],
-    "status": "Incomplete"
-  },
-  {
     "exercise_name": "branch-rename",
     "started_at": 1787650550.273913,
     "completed_at": 1787650551.418552,
